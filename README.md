@@ -18,7 +18,8 @@ A Data Structures mini project that simulates a social networking platform using
 Open `index.html` in a modern web browser.
 
 The project uses browser `localStorage` for demo data. Data is stored in the browser and is not shared between different users or devices.
-
+## Live Demo
+[Click here to view my project](https://akilaramesh247.github.io/Nexora-Social-Network/)
 ## Demo login
 - User: `aarav`
 - Password: `demo123`
