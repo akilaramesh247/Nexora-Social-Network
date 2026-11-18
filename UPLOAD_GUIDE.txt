@@ -1,0 +1,17 @@
+NEXORA SUPPLEMENTAL GITHUB FILES
+
+Files to upload:
+- PROJECT_REPORT.pdf (report)
+- PROJECT_REPORT.docx (editable report)
+- data-structures.md
+- algorithms.md
+- test-cases.md
+- flowchart.md
+
+To upload from Android:
+1. Extract this ZIP in My Files.
+2. In GitHub repository, tap Add file > Upload files.
+3. Choose files from the extracted folder.
+4. Commit changes.
+
+The screenshots folder is a placeholder. Add your own project screenshots there separately.
